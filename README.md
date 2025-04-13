@@ -1,16 +1,22 @@
-## Hi there 👋
+> 
+def __init__(self):
+    self.name = "Rain Luo"
+    self.education1 = "uWaterloo Computer Science"
+    self.education2 = "uWaterloo Finance"
+    self.location = "Toronto"
+    self.role = {
+        "curr": "Investment Technology Analyst @ Equitable",
+        "prev": ["Automation Engineer", "System Adminstrator"]
+    }
 
-<!--
-**rainluo1/rainluo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+def moreInfo(self):
+    aboutMe = {
+        "currentFocus" : ["Exploring more areas of finance"],
+        "languages" : ["Python", "C++"],
+        "Tools" : ["Pandas", "Numpy", "Excel", "Bloomberg", "Capital IQ"]
+    }
+    print(aboutMe)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+def say_hi(self):
+    print("contact rain.luo@uwaterloo.ca")
+    
