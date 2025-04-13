@@ -33,7 +33,7 @@ class Rain:
 
 - 💬 Ask me why **I am passionate about the financial markets!**
 
-- 📫 How to reach me **rain.luo@uwaterloo.ca**
+- 📫 How to reach me: **rain.luo@uwaterloo.ca**
 
 - ⚡ Fun fact: **I love playing badminton and cooking!**
 
