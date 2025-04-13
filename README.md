@@ -7,7 +7,7 @@ def __init__(self):
     self.location = "Toronto"
     self.role = {
         "curr": "Investment Technology Analyst @ Equitable",
-        "prev": ["Automation Engineer", "System Adminstrator"]
+        "prev": ["Automation Engineer", "System Administrator"]
     }
 
 def moreInfo(self):
@@ -28,7 +28,7 @@ def say_hi(self):
 
 - 🔭 I’m currently working on a **replicating ideas from a [finance paper](https://academic.oup.com/rfs/article-abstract/33/5/2019/5236964)**
 
-- 🌱 I’m currently learning **Global Captial Markets, Derivative Securities, Corperate Finance**
+- 🌱 I’m currently learning **Global Capital Markets, Derivative Securities, Corporate Finance**
 
 - 💬 Ask me about **why I like the financial markets!**
 
