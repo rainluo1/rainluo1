@@ -1,6 +1,5 @@
 <pre>
-```
-python 
+
 def __init__(self):
     self.name = "Rain Luo"
     self.education1 = "uWaterloo Computer Science"
@@ -21,6 +20,5 @@ def moreInfo(self):
 
 def say_hi(self):
     print("contact rain.luo@uwaterloo.ca")
-    
-```
+
 </pre>
