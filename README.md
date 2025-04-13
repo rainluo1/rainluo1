@@ -26,7 +26,7 @@ def say_hi(self):
 # 👋 Hi, I'm Rain!
 <h3>A Computer Science & Finance Student @ University Of Waterloo! Seeking Finance Internships</h3>
 
-- 🔭 I’m currently working on a **implementing ideas from a finance ![paper](https://academic.oup.com/rfs/article-abstract/33/5/2019/5236964)**
+- 🔭 I’m currently working on a **implementing ideas from a ![finance paper](https://academic.oup.com/rfs/article-abstract/33/5/2019/5236964)**
 
 - 🌱 I’m currently learning **Global Captial Markets, Derivative Securities, Corperate Finance**
 
@@ -35,7 +35,6 @@ def say_hi(self):
 - 📫 How to reach me **rain.luo@uwaterloo.ca**
 
 - ⚡ Fun fact: **I love playing badminton and cooking!**
-
 
 
 # 💻 Tech Stack:
