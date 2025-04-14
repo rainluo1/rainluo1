@@ -15,7 +15,7 @@ class Rain:
         aboutMe = {
             "currentFocus": ["Exploring more areas of finance"],
             "languages": ["Python", "C/C++","JavaScript", "Java"], # Python and C++ are my fav! 
-            "tools": ["Pandas", "NumPy", "Excel", "Bloomberg", "Capital IQ"] # Thes
+            "tools": ["Pandas", "NumPy", "Excel", "Bloomberg", "Capital IQ"] # These are my bread and butter!
         }
         print(aboutMe)
 
