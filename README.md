@@ -8,7 +8,7 @@ class Rain:
         self.location = "Toronto"
         self.role = {
             "curr": "Investment Technology Analyst @ Equitable",
-            "prev": ["Automation Engineer", "System Administrator"]  # Corrected spelling
+            "prev": ["Automation Enginnering Intern", "Software Enginnering Intern"]
         }
 
     def moreInfo(self):
