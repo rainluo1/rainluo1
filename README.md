@@ -25,7 +25,7 @@ class Rain:
 </pre>
 
 # 👋 Hi, I'm Rain!
-<h3>A Computer Science & Finance Student @ University Of Waterloo! Seeking Finance Internships</h3>
+<h3>A student double majoring in Computer Science and Finance @ University Of Waterloo! Seeking internship opportunities! </h3>
 
 - 🔭 I’m currently working on **replicating ideas from a [finance paper](https://academic.oup.com/rfs/article-abstract/33/5/2019/5236964)**
 
